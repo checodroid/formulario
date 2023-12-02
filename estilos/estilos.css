@@ -1,0 +1,29 @@
+.border_preguntas {
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkseagreen;
+}
+
+.border_preguntas_medio {
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: darkseagreen;
+}
+
+.border_respuestas {
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+    border-color: darkseagreen;
+}
+
+.border_respuestas_medio {
+    border-style: solid;
+    border-width: 1px 0px 0px 1px;
+    border-color: darkseagreen;
+}
+
+.pregunta {
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
